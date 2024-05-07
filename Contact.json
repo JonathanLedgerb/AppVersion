@@ -1,0 +1,80 @@
+{
+            "officeCode": "HK",
+            "location": "HONG KONG",
+            "network": "HO",
+            "companyName": "RS LOGISTICS LTD - HONG KONG (HEAD OFFICE)",
+            "companyAddress": "RM 06A, 10/F, CDW BUILDING, NO.388 CASTLE PEAK ROAD, TSUEN WAN, N.T. HONG KONG",
+            "fax": "(852) 2121 8097",
+            "contacts": [
+                {
+                    "trade": "TP",
+                    "name": "SHIRIN LIAO",
+                    "tel": "(755) 2519 8244 EXT 688",
+                    "email": "shirinliao.sz@rslog.com.cn"
+                },
+                {
+                    "trade": "LATIN",
+                    "name": "YOYO YANG",
+                    "tel": "(755) 2519 8243 EXT 370",
+                    "email": "yoyoyang.sz@rslog.com.cn"
+                },
+                {
+                    "trade": "LATIN",
+                    "name": "JOHN YUAN",
+                    "tel": "(755) 2519 8243 EXT 374",
+                    "email": "johnyuan.sz@rslog.com.cn"
+                },
+                {
+                    "trade": "OTHER",
+                    "name": "CELINE LIN",
+                    "tel": "(755) 2519 8237 EXT 332",
+                    "email": "celinelin.sz@rslog.com.cn"
+                }
+            ]
+        },
+        {
+            "officeCode": "SH",
+            "location": "SHANGHAI",
+            "network": "HO",
+            "companyName": "RS LOGISTICS LTD - SHANGHAI (NORTH CHINA HEAD OFFICE)",
+            "companyAddress": "ROOM901-902, FINANCIAL STREET HAILUN CENTRE,\r\n 440 HAI LUN ROAD, HONGKOU DISTRICT, SHANGHAI,200086",
+            "fax": "(86) 21 - 6072 2129",
+            "contacts": [
+                {
+                    "trade": "TP",
+                    "name": "ALICE SHEN",
+                    "tel": "(86) 21 - 6072 2199",
+                    "email": "aliceshen.sh@rslog.com.cn"
+                },
+                {
+                    "trade": "TP",
+                    "name": "LIDIA WU",
+                    "tel": "(86) 21 - 6072 2119",
+                    "email": "lidiawu.sh@rslog.com.cn"
+                },
+                {
+                    "trade": "LATIN",
+                    "name": "EARTHA YU",
+                    "tel": "(86) 21 - 6069 5300",
+                    "email": "earthayu.sh@rslog.com.cn"
+                },
+                {
+                    "trade": "LATIN",
+                    "name": "STELLA SUN",
+                    "tel": "(86) 21 - 6072 2149",
+                    "email": "stellasun.sh@rslog.com.cn"
+                },
+                {
+                    "trade": "OTHER",
+                    "name": "ALICE SHEN",
+                    "tel": "(86) 21 - 6072 2199",
+                    "email": "aliceshen.sh@rslog.com.cn"
+                },
+                {
+                    "trade": "OTHER",
+                    "name": "STELLA SUN",
+                    "tel": "(86) 21 - 6072 2149",
+                    "email": "stellasun.sh@rslog.com.cn"
+                }
+            ]
+        }
