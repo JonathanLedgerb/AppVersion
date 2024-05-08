@@ -9,32 +9,6 @@
             "companyName": "RS LOGISTICS LTD - HONG KONG (HEAD OFFICE)",
             "companyAddress": "RM 06A, 10/F, CDW BUILDING, NO.388 CASTLE PEAK ROAD, TSUEN WAN, N.T. HONG KONG",
             "fax": "(852) 2121 8097",
-            "contacts": [
-                {
-                    "trade": "TP",
-                    "name": "SHIRIN LIAO",
-                    "tel": "(755) 2519 8244 EXT 688",
-                    "email": "shirinliao.sz@rslog.com.cn"
-                },
-                {
-                    "trade": "LATIN",
-                    "name": "YOYO YANG",
-                    "tel": "(755) 2519 8243 EXT 370",
-                    "email": "yoyoyang.sz@rslog.com.cn"
-                },
-                {
-                    "trade": "LATIN",
-                    "name": "JOHN YUAN",
-                    "tel": "(755) 2519 8243 EXT 374",
-                    "email": "johnyuan.sz@rslog.com.cn"
-                },
-                {
-                    "trade": "OTHER",
-                    "name": "CELINE LIN",
-                    "tel": "(755) 2519 8237 EXT 332",
-                    "email": "celinelin.sz@rslog.com.cn"
-                }
-            ]
         },
         {
             "officeCode": "SH",
