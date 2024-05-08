@@ -8,7 +8,8 @@
             "network": "HO",
             "companyName": "RS LOGISTICS LTD - HONG KONG (HEAD OFFICE)",
             "companyAddress": "RM 06A, 10/F, CDW BUILDING, NO.388 CASTLE PEAK ROAD, TSUEN WAN, N.T. HONG KONG",
-            "fax": "(852) 2121 8097"
+            "fax": "(852) 2121 8097",
+            "contacts": []
         },
         {
             "officeCode": "SH",
